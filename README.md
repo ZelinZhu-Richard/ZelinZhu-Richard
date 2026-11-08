@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zelinzhu-richard.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_site-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="https://zelinzhu-richard.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_site-0A0A0A?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/zelin-zhu/"><img src="https://img.shields.io/badge/LinkedIn-Zelin_Zhu-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://x.com/zzl_richard"><img src="https://img.shields.io/badge/X-@zzl__richard-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://zelinzhu-richard.github.io/Zelin_Zhu_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-B31B1B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
